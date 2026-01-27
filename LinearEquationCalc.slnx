@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LinearEquationCalc/LinearEquationCalc.vcxproj" Id="f7418206-5782-4055-9e83-15955b17298b" />
+</Solution>
