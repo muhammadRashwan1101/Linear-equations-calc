@@ -1,3 +1,4 @@
 ﻿  LinearEquationCalc.cpp
+C:\Users\Admin\source\repos\LinearEquationCalc\LinearEquationCalc\LinearEquationCalc.cpp(191,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\Admin\source\repos\LinearEquationCalc\LinearEquationCalc\LinearEquationCalc.cpp(11,34): warning C4101: 'xIndex': unreferenced local variable
   LinearEquationCalc.vcxproj -> C:\Users\Admin\source\repos\LinearEquationCalc\x64\Debug\LinearEquationCalc.exe
